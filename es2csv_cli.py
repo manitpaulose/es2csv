@@ -15,7 +15,7 @@ import sys
 import argparse
 import es2csv
 
-__version__ = '7.5'
+__version__ = '7.15'
 
 
 def main():
