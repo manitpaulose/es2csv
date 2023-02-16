@@ -13,8 +13,8 @@ Quick Look Demo
 
 Requirements
 ------------
-| This tool should be used with Elasticsearch 5.x version, for older version please check `2.x release <https://github.com/taraslayshchuk/es2csv/tree/2.x>`_.
-| You also need `Python 2.7.x <https://www.python.org/downloads/>`_ and `pip <https://pip.pypa.io/en/stable/installing/>`_.
+| This tool should be used with Elasticsearch 7.x version.
+| You also need `Python 3.6.x <https://www.python.org/downloads/>`_ and `pip <https://pip.pypa.io/en/stable/installing/>`_.
 
 Installation
 ------------
@@ -23,7 +23,7 @@ From source:
 
 .. code-block:: bash
 
-    $ pip install git+https://github.com/taraslayshchuk/es2csv.git
+    $ pip install git+https://github.com/manitpaulose/es2csv.git
 
 From pip:
 
