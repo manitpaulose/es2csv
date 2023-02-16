@@ -5,7 +5,7 @@ import re
 from setuptools import setup
 
 classifiers = [
-    'Development Status :: 5 - Production/Stable',
+    'Development Status :: 7 - Production/Stable',
     'Intended Audience :: Developers',
     'Intended Audience :: System Administrators',
     'Environment :: Console',
