@@ -29,7 +29,7 @@ From pip:
 
 .. code-block:: bash
 
-    $ pip install es2csv
+    $ pip3 install es2csv
 
 Usage
 -----
