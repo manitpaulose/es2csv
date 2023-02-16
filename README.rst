@@ -23,7 +23,7 @@ From source:
 
 .. code-block:: bash
 
-    $ pip install git+https://github.com/manitpaulose/es2csv.git
+    $ pip3 install git+https://github.com/manitpaulose/es2csv.git
 
 From pip:
 
